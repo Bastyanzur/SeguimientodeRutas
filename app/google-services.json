@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391321225316",
+    "project_id": "seguimiento-de-rutas-8a2d5",
+    "storage_bucket": "seguimiento-de-rutas-8a2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391321225316:android:91b883edb8aad18bbd7771",
+        "android_client_info": {
+          "package_name": "com.example.seguimientoderutas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGhp1JbACVjq928dcM9WBpLRWPpFBiu40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
